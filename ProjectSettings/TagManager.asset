@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - hair
+  - twister
+  - tongdirt
+  - mud
+  - bubble
+  - throable
+  - itemIntray
   layers:
   - Default
   - TransparentFX

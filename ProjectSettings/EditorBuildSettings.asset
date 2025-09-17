@@ -4,5 +4,35 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scene/Concent.unity
+    guid: 3ab334ea7779363438e90e6afb27d64f
+  - enabled: 1
+    path: Assets/Scene/MySplashScreen.unity
+    guid: 0cfb243a837bf3841bd91589c255369b
+  - enabled: 1
+    path: Assets/Scene/MyMainMenu.unity
+    guid: 6671163721540734faed8713fa0a0255
+  - enabled: 1
+    path: Assets/Scene/MyModeSelection.unity
+    guid: 57f9a9e73288718409295a6bb448d8fd
+  - enabled: 1
+    path: Assets/Scene/EyeMode.unity
+    guid: cf2b0486970032644b6c638df32c8ee6
+  - enabled: 1
+    path: Assets/Scene/TeethMode.unity
+    guid: 083eea726760c63488f051063192e9c3
+  - enabled: 1
+    path: Assets/Scene/LipsMode.unity
+    guid: 5ce52581e3477de41aeb14e888cead48
+  - enabled: 1
+    path: Assets/Scene/EarMode.unity
+    guid: 84622e92da1066f489460df25f3a5c48
+  - enabled: 1
+    path: Assets/Scene/BellyButtonMode.unity
+    guid: ae321436697575c4b85fe6e0d91b7c86
+  - enabled: 1
+    path: Assets/Scene/FootMode.unity
+    guid: 6aaf4f9e4c22ca44696f0db4b53baf00
   m_configObjects: {}
